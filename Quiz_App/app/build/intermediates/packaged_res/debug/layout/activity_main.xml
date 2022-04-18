@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+    <ImageView
+
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="256dp"
+        android:scaleType="center"
+        app:srcCompat="@drawable/quizlogo" />
+
+    <EditText
+        android:id="@+id/edit_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Enter Username" />
+
+    <EditText
+        android:id="@+id/edit_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/button_login"
+        android:layout_width="141dp"
+        android:layout_height="61dp"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClick"
+        android:text="Register" />
+
+    <Button
+        android:id="@+id/button_login2"
+        android:layout_width="141dp"
+        android:layout_height="64dp"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClick2"
+        android:text="Login" />
+
+
+</LinearLayout>
+
+
+

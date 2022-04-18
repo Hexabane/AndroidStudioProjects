@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020193938103",
+    "project_id": "quiz-app-13b09",
+    "storage_bucket": "quiz-app-13b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020193938103:android:1f91d0752d6da7d5db8b32",
+        "android_client_info": {
+          "package_name": "com.kunal.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020193938103-lugpc0us7pc8usmratqeal9s2nih770f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLcHIi2V-1cfld3lzcA7ow3tL-BmtZgcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020193938103-lugpc0us7pc8usmratqeal9s2nih770f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
