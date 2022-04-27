@@ -2613,11 +2613,13 @@ int id button6 0x7f080068
 int id button7 0x7f080069
 int id button8 0x7f08006a
 int id button9 0x7f08006b
+int id buttonClear 0x7f0801f1
 int id buttonDivide 0x7f08006c
 int id buttonDot 0x7f08006d
 int id buttonEquals 0x7f08006e
 int id buttonMinus 0x7f08006f
 int id buttonMultiply 0x7f080070
+int id buttonNegative 0x7f0801f0
 int id buttonPanel 0x7f080071
 int id buttonPlus 0x7f080072
 int id cache_measures 0x7f080073
@@ -2723,6 +2725,7 @@ int id group_divider 0x7f0800d6
 int id grouping 0x7f0800d7
 int id groups 0x7f0800d8
 int id guideline 0x7f0800d9
+int id guideline2 0x7f0801ef
 int id header_title 0x7f0800da
 int id hideable 0x7f0800db
 int id home 0x7f0800dc

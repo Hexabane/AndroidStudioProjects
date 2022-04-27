@@ -2614,11 +2614,13 @@ id button6
 id button7
 id button8
 id button9
+id buttonClear
 id buttonDivide
 id buttonDot
 id buttonEquals
 id buttonMinus
 id buttonMultiply
+id buttonNegative
 id buttonPanel
 id buttonPlus
 id cache_measures
@@ -2724,6 +2726,7 @@ id group_divider
 id grouping
 id groups
 id guideline
+id guideline2
 id header_title
 id hideable
 id home

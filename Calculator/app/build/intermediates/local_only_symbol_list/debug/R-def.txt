@@ -19,12 +19,15 @@ id button6
 id button7
 id button8
 id button9
+id buttonClear
 id buttonDivide
 id buttonDot
 id buttonEquals
 id buttonMinus
 id buttonMultiply
+id buttonNegative
 id buttonPlus
+id guideline2
 id newNumber
 id operation
 id result
